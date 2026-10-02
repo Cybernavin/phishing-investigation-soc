@@ -32,8 +32,6 @@ Evidence Correlation
       ↓
 Risk Scoring
       ↓
-MITRE ATT&CK Mapping
-      ↓
 SOC Investigation Report
       ↓
 osTicket Incident
