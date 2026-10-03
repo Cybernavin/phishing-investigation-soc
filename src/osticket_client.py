@@ -33,7 +33,7 @@ OSTICKET_URL = "http://127.0.0.1/osTicket"
 # PUT YOUR REAL API KEY HERE
 # ------------------------------------------------------------
 
-OSTICKET_API_KEY = "Enter_your_api"
+OSTICKET_API_KEY = "T1OCVS1ZLGJ2NLQ1ZLL7DR3YMBFBW0"
 
 
 # ------------------------------------------------------------

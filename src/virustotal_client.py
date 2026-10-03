@@ -7,7 +7,7 @@ import requests
 # VirusTotal API Key
 # ============================================================
 
-API_KEY = "0d5f76b3d5153e8519e20d37bb374999"
+API_KEY = ""
 
 BASE_URL = "https://www.virustotal.com/api/v3"
 

@@ -1,7 +1,7 @@
 import time
 import requests
 
-API_KEY = "01-86b0-94311f7abbac"
+API_KEY = "01a0f53a-698-86b0ac"
 BASE_URL = "https://urlscan.io"
 
 
